@@ -1,0 +1,21 @@
+Hash = ( 36 * X + 19 ) % 41
+number of bucket: 31
+/site/regions/africa/item/description/parlist/listitem/text/keyword
+the number of result:2
+/site/open_auctions/open_auction/bidder/date
+the number of result:708
+/site/closed_auctions/closed_auction[annotation/description[parlist/listitem/text[keyword[bold]]]]/price
+the number of result:0
+site/people[person[profile[education]/age]]/person/phone
+the number of result:0
+site/closed_auctions//emph
+the number of result:144
+site//person
+the number of result:1494
+site/people/person[//age]//education
+the number of result:8
+site/closed_auctions/closed_auction[//description]//person
+the number of result:111
+site/closed_auctions/closed_auction[//description]//person
+the number of result:111
+Press any key to continue
