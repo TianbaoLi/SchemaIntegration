@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="bufmgr\blk_utility.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -46,6 +43,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="bufmgr\time_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bufmgr\DiskReadWrite.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
