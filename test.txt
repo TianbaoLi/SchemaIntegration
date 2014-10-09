@@ -33,15 +33,4 @@ http://www.china-pub.com/computers/common/info.asp?id=20254 统计学习理论
 http://www.china-pub.com/computers/common/info.asp?id=18390 计算机图形学（第三版） 英文版 
 http://www.china-pub.com/computers/common/info.asp?id=21929 人工智能机器人学导论  
 http://www.china-pub.com/computers/common/info.asp?id=21997 非真实感图形学——造型、绘制与动画技术  
-http://www.china-pub.com/computers/common/info.asp?id=2364 净室软件工程：技术与过程
-http://www.china-pub.com/computers/common/info.asp?id=22710 统计自然语言处理基础 
-http://www.china-pub.com/computers/common/info.asp?id=21122 机器人探索——工程实践指南 
-http://www.china-pub.com/computers/common/info.asp?id=22509 UML软件开发
-http://www.china-pub.com/computers/common/info.asp?id=19389 数据库性能调优：原理与技术 
-http://www.china-pub.com/computers/common/info.asp?id=9838 软件过程改进（英文版）
-http://www.china-pub.com/computers/common/info.asp?id=22345 智能系统—结构、设计与控制 
-http://www.china-pub.com/computers/common/info.asp?id=22708 网络分析、体系结构与设计（第二版） 
-http://www.china-pub.com/computers/common/info.asp?id=12904 游戏编程精粹3
-http://www.china-pub.com/computers/common/info.asp?id=16632  无线与移动系统导论（影印版） 
-http://www.china-pub.com/computers/common/info.asp?id=20566 实时计算机图形学（第2版)
-http://www.china-pub.com/computers/common/info.asp?id=8841 CMM实现指南——如何改进软件
+http://www.china-pub.com

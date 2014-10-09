@@ -1,3 +1,35 @@
-﻿  DiskReadWrite.cpp
+﻿  blk_utility.cpp
+bufmgr\blk_utility.cpp(9): warning C4244: “初始化”: 从“double”转换到“long”，可能丢失数据
+  bufmgr.cpp
+  buf_frame.cpp
+bufmgr\buf_frame.cpp(144): warning C4800: “const int”: 将值强制为布尔值“true”或“false”(性能警告)
+  clockframe.cpp
+  DB.cpp
+bufmgr\DB.cpp(23): warning C4996: 'open': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _open. See online help for details.
+          D:\Program Files\Microsoft Visual Studio 11.0\VC\include\io.h(315) : 参见“open”的声明
+bufmgr\DB.cpp(36): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _close. See online help for details.
+          D:\Program Files\Microsoft Visual Studio 11.0\VC\include\io.h(305) : 参见“close”的声明
+bufmgr\DB.cpp(48): warning C4996: 'lseek': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _lseek. See online help for details.
+          D:\Program Files\Microsoft Visual Studio 11.0\VC\include\io.h(313) : 参见“lseek”的声明
+bufmgr\DB.cpp(51): warning C4996: 'read': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _read. See online help for details.
+          D:\Program Files\Microsoft Visual Studio 11.0\VC\include\io.h(316) : 参见“read”的声明
+bufmgr\DB.cpp(62): warning C4996: 'lseek': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _lseek. See online help for details.
+          D:\Program Files\Microsoft Visual Studio 11.0\VC\include\io.h(313) : 参见“lseek”的声明
+bufmgr\DB.cpp(65): warning C4996: 'write': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _write. See online help for details.
+          D:\Program Files\Microsoft Visual Studio 11.0\VC\include\io.h(321) : 参见“write”的声明
+  hash.cpp
+bufmgr\hash.cpp(313): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          D:\Program Files\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : 参见“fopen”的声明
+bufmgr\hash.cpp(343): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          D:\Program Files\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : 参见“fopen”的声明
+  LRU.cpp
+  LRUFrame.cpp
+  replacer.cpp
+  time_test.cpp
+  main.cpp
+  正在生成代码...
+d:\turingmac\desktop\diskexample\bufmgr\buf_frame.cpp(128): warning C4700: 使用了未初始化的局部变量“st”
+d:\turingmac\desktop\diskexample\bufmgr\buf_frame.cpp(264): warning C4700: 使用了未初始化的局部变量“st”
+d:\turingmac\desktop\diskexample\bufmgr\bufmgr.cpp(424): warning C4715: “BufMgr::FreePage”: 不是所有的控件路径都返回值
 LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/OPT:ICF”规范)
   DiskExample.vcxproj -> D:\TuringMac\Desktop\DiskExample\Release\DiskExample.exe

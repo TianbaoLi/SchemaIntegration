@@ -76,12 +76,12 @@
     <ClCompile Include="bufmgr\buf_frame.cpp" />
     <ClCompile Include="bufmgr\clockframe.cpp" />
     <ClCompile Include="bufmgr\DB.cpp" />
-    <ClCompile Include="bufmgr\DiskReadWrite.cpp" />
     <ClCompile Include="bufmgr\hash.cpp" />
     <ClCompile Include="bufmgr\LRU.cpp" />
     <ClCompile Include="bufmgr\LRUFrame.cpp" />
     <ClCompile Include="bufmgr\replacer.cpp" />
     <ClCompile Include="bufmgr\time_test.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="bufmgr\bufmgr.h" />
