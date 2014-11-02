@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="bufmgr\blk_utility.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bufmgr\buf_frame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bufmgr\bufmgr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bufmgr\clockframe.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bufmgr\DB.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bufmgr\hash.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bufmgr\LRU.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bufmgr\LRUFrame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bufmgr\replacer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bufmgr\SchemaIntegration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bufmgr\time_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="bufmgr\buf_common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bufmgr\buf_frame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bufmgr\bufmgr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bufmgr\clockframe.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bufmgr\DB.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bufmgr\hash.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bufmgr\LRU.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bufmgr\LRUFrame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bufmgr\replacer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bufmgr\time_test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2f1b3295-9eed-4bdc-831f-196d1c050e6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{faee39e6-7857-41b9-9bac-d38201a18e2c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

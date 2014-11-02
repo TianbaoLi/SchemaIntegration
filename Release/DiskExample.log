@@ -1,3 +1,0 @@
-﻿  DiskReadWrite.cpp
-LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/OPT:ICF”规范)
-  DiskExample.vcxproj -> D:\TuringMac\Desktop\DiskExample\Release\DiskExample.exe
